@@ -1,16 +1,22 @@
-## Hi there 👋
+### 🤖 Robotics & AI Student @ Akdeniz University
+I am a passionate developer focused on building autonomous systems and intelligent algorithms.
 
-<!--
-**YusufSari-ai/YusufSari-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
+- **Languages:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Robotics:** ROS 2 (Learning), Arduino, Raspberry Pi
+- **AI/ML:** OpenCV, NumPy, Scikit-learn
+- **Tools:** Git, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects & Interests
+- 🛰️ Currently working on [Leetcode-Solutions]
+- 🧠 Interested in Computer Vision and Control Systems
+- 📚 Always learning new ways to optimize C++ code
+
+---
+
+### 📈 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=YusufSari-ai&show_icons=true&theme=radical)
