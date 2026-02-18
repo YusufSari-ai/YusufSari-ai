@@ -18,8 +18,3 @@ I am a passionate developer focused on building autonomous systems and intellige
 
 ---
 
-### 📈 GitHub Stats
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufSari-ai&show_icons=true&theme=radical&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufSari-ai&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YusufSari-ai&theme=github-dark)
